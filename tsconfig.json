@@ -1,0 +1,13 @@
+{
+	// https://v3.nuxtjs.org/concepts/typescript
+	"extends": "./.nuxt/tsconfig.json",
+	"compilerOptions": {
+		"allowJs": true,
+		"forceConsistentCasingInFileNames": true,
+		"checkJs": true,
+		"target": "ES2022",
+		"module": "ES2022",
+		"removeComments": true,
+		"jsx": "preserve"
+	}
+}

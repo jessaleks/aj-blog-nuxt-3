@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3",
+    "vue": "3.2.36",
+    "hastscript": "7.0.2",
+    "rehype-raw": "6.1.1",
+    "rehype-autolink-headings": "6.1.1",
+    "rehype-sanitize": "5.0.1",
+    "rehype-slug": "5.0.1",
+    "rehype-stringify": "9.0.3",
+    "@jsdevtools/rehype-toc": "3.0.2",
+    "@headlessui/vue": "1.5.0",
+    "@heroicons/vue": "1.0.6",
+    "remark-gfm": "3.0.1",
+    "remark-parse": "10.0.1",
+    "remark-rehype": "10.1.0",
+    "unified": "10.1.2",
+    "contentful": "9.1.29"
+  },
+  "volta": {
+    "node": "16.15.0"
+  }
+}

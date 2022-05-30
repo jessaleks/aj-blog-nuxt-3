@@ -6,4 +6,12 @@ export default defineNuxtConfig({
 		spaceID: process.env.SPACE_ID,
 		accessToken: process.env.ACCESS_TOKEN,
 	},
+	modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
+	tailwindcss: {
+		exposeConfig: true,
+		jit: true,
+	},
+	colorMode: {
+		classSuffix: '',
+	},
 });

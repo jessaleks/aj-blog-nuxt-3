@@ -3,5 +3,8 @@
 </template>
 
 <script lang="ts" setup>
-defineComponent({});
+definePageMeta({
+	layout: 'base-layout',
+	colorMode: 'dark',
+});
 </script>

@@ -14,5 +14,4 @@ export default defineNuxtConfig({
 	colorMode: {
 		classSuffix: '',
 	},
-	storybook: {},
 });

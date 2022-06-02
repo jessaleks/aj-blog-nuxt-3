@@ -11,6 +11,7 @@
     "@heroicons/vue": "1.0.6",
     "@jsdevtools/rehype-toc": "3.0.2",
     "@nuxtjs/color-mode": "^3.0.3",
+    "@nuxtjs/storybook": "^4.3.2",
     "@nuxtjs/tailwindcss": "^5.1.2",
     "contentful": "9.1.29",
     "hastscript": "7.0.2",
